@@ -1,1 +1,1 @@
-# NSCC-Projects
+Projects
